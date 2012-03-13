@@ -11,11 +11,16 @@ Thanks for downloading our PSD template, here are some things you might want to 
 Email us at: hi@bigbigbomb.com
 Find us on twitter: @bigbigbomb
 
+and our website:
+http://www.bigbigbomb.com
+
 **Copyright Info**
 
 These templates are under a Creative Commons CC BY-SA license which means you can remix, tweak, and build upon the work even for commercial purposes, as long as you credit and license the new creation(s) under the identical terms.
 
 We would ask that you please never attempt to sell our work as a standalone product, as it is not meant to ever be sold as a commercial product, though it can be freely used as an asset for commercial services.
+
+That said, you don’t actually have to give us attribution unless you really want to :)
 
 View the license here:
 http://creativecommons.org/licenses/by-sa/3.0/
