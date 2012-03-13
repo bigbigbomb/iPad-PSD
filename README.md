@@ -24,12 +24,3 @@ That said, you don’t actually have to give us attribution unless you really wa
 
 View the license here:
 http://creativecommons.org/licenses/by-sa/3.0/
-
-**Version Changes**
-
-*Initial Release*
-
-*Release 2*
-- Unified width and height of files
-- Made screen area actual screen size so you can just drop in an image! Even easier!
-- cleaned up files a bit
